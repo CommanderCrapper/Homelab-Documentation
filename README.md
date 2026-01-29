@@ -1,10 +1,10 @@
-SUMMARY
+Summary
 -------------
 Started in 2025, this repository is dedicated to the homelab I run at home, used for personal projects & learning.
 
 I will update this page as often as I can, however with college & life, it would be wise not to expect very frequent/major updates. The homelab & it's documentation are still very much a work in progress, as there are a lot of projects I have in mind that I will be working on in the future, listed below:
 
-FUTURE GOALS
+Future Goals
 -------------
 - Actually proper documentation (readthedocs.io most likely) with bug fixes I've encountered, examples of hosted projects, etc.
 - Port-forwarding (with firewall)
@@ -19,6 +19,6 @@ FUTURE GOALS
 - Customization of the homelab's exterior (the case) with stickers & other various features
 - Labeling of wires & hardware once there are enough to be considered confusing or conflicting
 
-CREDITS
+Credits
 -------------
 A majority of anything I've done couldn't have been without the assistance & encouragement of the friends & professors I've learned from, engaged with, & have come to know throughout the years of me taking an interest in computer science & cybersecurity. I am eternally grateful for all the opportunities I've been given & all the people I've come to know that have encouraged me to push myself forward.
