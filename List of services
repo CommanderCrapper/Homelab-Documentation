@@ -1,7 +1,7 @@
-Kiwix
-Nextcloud
-PiHole
-Jellyfin
-Homeassistant.io
-Tailscale
-Kali Linux VM (complete with tools to anonymize internet activity)
+Kiwix - Offline access to educational and informational web content
+Nextcloud - Private file-hosting and sharing platform
+PiHole - Network-wide ad-blocking and DNS filtering
+Jellyfin - Media server for personal movies, books, & TV library management
+Homeassistant.io - Privacy-focused open source home automation services
+Tailscale - Secure remote access via self-managed VPN networking
+Kali Linux VM (with extra tools added to anonymize internet activity) - OS used for penetration testing & cybersecurity purposes, with added tools to keep the system anonymized to better simulate real-world scenarios.
