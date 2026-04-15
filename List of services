@@ -4,4 +4,6 @@
 - Jellyfin: Media server for personal movies, books, & TV library management
 - Homeassistant.io: Privacy-focused open source home automation services
 - Tailscale: Secure remote access via self-managed VPN networking
-- Kali Linux VM (with extra tools added to anonymize internet activity) - OS used for penetration testing & cybersecurity purposes, with added tools to keep the system anonymized to better simulate real-world scenarios.
+- Kali Linux VM - OS used for penetration testing & cybersecurity purposes, with extra added tools (not included in the base installation) to keep the system anonymized to better simulate real-world scenarios
+- NixOS VM - A versatile & well-known OS within the linux ricing community, used for experimenting & creating new rices in a safe environment to be used on a main computer once finished
+- Minecraft server - Running a modded instance of a minecraft server, using curseforge, to run the Sky Factory 3 modpack
