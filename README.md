@@ -2,9 +2,9 @@ Summary
 -------------
 Started in 2025, this repository is dedicated to the homelab I run at home, used for personal projects & learning.
 
-Currently running Proxmox VE with multiple services that I use daily, as well as other friends of mine close to me (namely Jellyfin & Tailscale).
+Currently running Proxmox VE with multiple services that I use daily, as well as other friends of mine close to me.
 
-Updates to the documentation will come as soon as possible, however with life & college, it would be wise not to expect very frequent/major updates.
+Updates to the documentation will come rather infrequently, due to life & college.
 
 The homelab & it's documentation are still very much a work in progress, as there are a lot of projects I have in mind that I will be working on in the future, listed below:
 
