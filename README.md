@@ -11,8 +11,8 @@ The homelab & it's documentation are still very much a work in progress, as ther
 Future Goals
 -------------
 - Actually proper documentation (readthedocs.io most likely) with bug fixes I've encountered, examples of hosted projects, etc.
-- Port-forwarding (with firewall)
-- Fully interactable network of devices I can interact with remotely under the subnet (that's privately hosted, not owned by a bigger corporation)
+- ~~Port-forwarding (with firewall)~~
+- Fully interactable network of devices I can interact with remotely under the subnet (privately hosted, not owned by a bigger corporation)
 - 2FA for extra security measures, especially for if port-forwarding will be implemented
 - Experimentation with AI natively once the homelab is able to handle LLMs (for learning how AIs work & pentesting)
 - Upgraded hardware for the homelab
